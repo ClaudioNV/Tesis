@@ -1,0 +1,28 @@
+#footer{
+	/*background-color: #004063;*/
+	padding: 2%;	
+}
+#footer a{
+	text-decoration: none;
+	color: #504f4f;
+	  
+}
+
+#footer small{
+	font: normal 80% 'SignikaNegative-Regular';
+	color: #313131;
+	margin: 0;
+}
+#footer .social-direccion .social small span{
+	padding: 5% 2% 0 1%;
+}
+#footer .social-direccion .social small img{
+	padding: 1%;
+}
+#footer {
+        clear: left;
+        width: 100%;
+        height: 100%;
+        background-color:orange;
+}
+.footer-title { font-size: 24px; font-weight: 600; margin-bottom: 10px; color: black; }

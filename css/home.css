@@ -1,0 +1,33 @@
+.logo{
+    float:left;
+    width: 200px;
+    height: 100px;
+
+}
+.titulo{
+float: right;
+    text-indent: 100px;
+
+}
+/* .footer-basic-centered {
+    background-color: #292c2f;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+    box-sizing: border-box;
+    width: 100%;
+    text-align: center;
+    font: normal 18px sans-serif;
+    padding: 45px;
+    margin-top: 80px;
+} */
+ footer{
+    height:40px;
+    background-color:#455868;
+    margin-top: 35px;
+    color:#ffff;
+    font-weight: 800;
+    font-size: 17px;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 20px;
+ }
+
